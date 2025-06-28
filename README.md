@@ -35,6 +35,7 @@ The case uses 4 M3x16 screws and 4 M3x5x4mm heatset inserts.
 
 ![case](/images/cad-case.png)
 ![gif](/images/sugarpad%20case%20v8.gif)
+![render](/images/render.png)
 
 Small amount of supports are required (USB-C hole, heatset insert holes)
 
