@@ -2,7 +2,8 @@
 
 A versatile macropad powered by the RP2040 (Seeed Studio Xiao RP2040)
 
-*images*
+![complete](/images/cad-case.png)
+![gif](/images/sugarpad%20case%20v8.gif)
 
 The sugarpad is powered by QMK (with VIA support).
 sugarpad is a 11-key macropad with a rotary encoder (with built in switch) and an OLED screen.
@@ -21,15 +22,21 @@ By default the OLED screen shows the layer you are on.
 
 ## PCB
 The PCB was built with KiCad.
-*images*
+
+![pcb](/images/pcb.png)
+![pcb-no-silkscreen](/images/pcb-no-silkscreen.png)
+![schematic](/images/schematic.png)
+![pcb-step](/images/cad-pcb.png)
+
 
 ## Case
 The case can be printed in 3 parts - the bottom, the plate and the top. 
 The case uses 4 M3x16 screws and 4 M3x5x4mm heatset inserts.
 
-*images*
+![case](/images/cad-case.png)
+![gif](/images/sugarpad%20case%20v8.gif)
 
-Almost no supports are needed. 
+Small amount of supports are required (USB-C hole, heatset insert holes)
 
 ## BOM
 - 1x Seeed Studio Xiao RP2040
