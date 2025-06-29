@@ -51,6 +51,6 @@ Small amount of supports are required (USB-C hole, heatset insert holes)
 ## Case
 - 4x M3x16mm socket head bolts
 - 4x M3x5x4mm heatset inserts
-- 1x top_case.3mf
-- 1x plate.3mf
-- 1x bottom_case.3mf
+- 1x top_case.step
+- 1x plate.step
+- 1x bottom_case.step
